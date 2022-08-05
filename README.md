@@ -12,7 +12,7 @@
 ### Local UI
 ```shell
 git clone git@github.com:hicsail/constellation-js.git
-npm run build && npm run start
+npm install && npm run build && npm run start
 ```
 Then open `http://localhost:8082/` on browser
 
